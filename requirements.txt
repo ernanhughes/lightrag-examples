@@ -1,0 +1,13 @@
+ipykernel
+python_dotenv
+numpy<2
+ollama
+tiktoken
+pipmaster
+graspologic
+networkx
+hyppo
+lightrag-hku
+
+# so I could debug notebooks
+nest-asyncio
